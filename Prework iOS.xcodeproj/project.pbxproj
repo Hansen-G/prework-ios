@@ -16,6 +16,7 @@
 		FCD30A6E289B6F6800E7A314 /* Prework_iOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD30A6D289B6F6800E7A314 /* Prework_iOSTests.swift */; };
 		FCD30A78289B6F6800E7A314 /* Prework_iOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD30A77289B6F6800E7A314 /* Prework_iOSUITests.swift */; };
 		FCD30A7A289B6F6800E7A314 /* Prework_iOSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD30A79289B6F6800E7A314 /* Prework_iOSUITestsLaunchTests.swift */; };
+		FCD30A87289B747600E7A314 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCD30A86289B747600E7A314 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FCD30A73289B6F6800E7A314 /* Prework iOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prework iOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCD30A77289B6F6800E7A314 /* Prework_iOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prework_iOSUITests.swift; sourceTree = "<group>"; };
 		FCD30A79289B6F6800E7A314 /* Prework_iOSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prework_iOSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FCD30A86289B747600E7A314 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				FCD30A58289B6F6700E7A314 /* SceneDelegate.swift */,
 				FCD30A5A289B6F6700E7A314 /* ViewController.swift */,
 				FCD30A5C289B6F6700E7A314 /* Main.storyboard */,
+				FCD30A86289B747600E7A314 /* SettingsViewController.swift */,
 				FCD30A5F289B6F6800E7A314 /* Assets.xcassets */,
 				FCD30A61289B6F6800E7A314 /* LaunchScreen.storyboard */,
 				FCD30A64289B6F6800E7A314 /* Info.plist */,
@@ -261,6 +264,7 @@
 				FCD30A5B289B6F6700E7A314 /* ViewController.swift in Sources */,
 				FCD30A57289B6F6700E7A314 /* AppDelegate.swift in Sources */,
 				FCD30A59289B6F6700E7A314 /* SceneDelegate.swift in Sources */,
+				FCD30A87289B747600E7A314 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
